@@ -1,0 +1,5 @@
+# Include files that ignored by git
+
+__pycache__
+/model
+/projectEnv
